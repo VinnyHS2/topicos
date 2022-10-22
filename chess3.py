@@ -34,4 +34,4 @@ for index, row in jogos.iterrows():
 
     f.close()
 
-os.system("ll")
+os.system("ls -l")
